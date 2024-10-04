@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Java, Javascript
-- 🌱 I’m currently learning NodeJS, ReactJS, VueJS
+- 🔭 I’m currently working on Java, Javascript, C#
+- 🌱 I’m currently learning NodeJS, ReactJS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
